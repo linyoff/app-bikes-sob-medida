@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764530408572",
+    "project_id": "prova02-50f5f",
+    "storage_bucket": "prova02-50f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764530408572:android:139940ff7a7a65665e9df9",
+        "android_client_info": {
+          "package_name": "com.aliny.prova02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYND48oEbbOyX4wwEAK_N4X6cvtDLM_Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

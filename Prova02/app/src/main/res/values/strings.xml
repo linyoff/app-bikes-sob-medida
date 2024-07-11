@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prova02</string>
+    <string name="title_activity_adicionar_cliente">AdicionarCliente</string>
+    <string name="title_activity_adidionar_bicicleta">AdidionarBicicleta</string>
+    <string name="title_activity_adicionar_bicicleta">AdicionarBicicleta</string>
+    <string name="title_activity_todas_bicicletas">TodasBicicletas</string>
+    <string name="title_activity_todos_clientes">TodosClientes</string>
+    <string name="title_activity_all_clientes">AllClientes</string>
+</resources>
